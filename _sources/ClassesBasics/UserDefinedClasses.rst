@@ -190,7 +190,7 @@ to the factory default settings" is called **instantiation**.
    :feedback_c: Correct, the BMW object is not the Tesla object but they are of the same type.
    :feedback_d: Look closer at types of the objects. 
 
-   What is the the output of the following print code?
+   What is the the output of the following print code? 
 
    .. code-block:: python
 
@@ -206,4 +206,3 @@ to the factory default settings" is called **instantiation**.
        y = type(BMW)==type(Tesla)
 
        print(x, y)
-       
