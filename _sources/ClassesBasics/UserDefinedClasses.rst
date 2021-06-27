@@ -206,3 +206,4 @@ to the factory default settings" is called **instantiation**.
        y = type(BMW)==type(Tesla)
 
        print(x, y)
+       
